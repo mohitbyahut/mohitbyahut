@@ -1,4 +1,4 @@
-<h1 align="center"> 🙋 Hi, I'm Mohit </h1>
+<h1 align="center"> 🙋 Hi, I'm Mohit Kumar </h1>
 
 💻 A passionate **Full Stack Developer** from India  
 🚀 Love building projects with **HTML, CSS, JavaScript, and Java**  
