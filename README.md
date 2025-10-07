@@ -1,7 +1,7 @@
 <h1 align="center"> 🙋 Hi, I'm Mohit Kumar </h1>
 
 💻 A passionate **Full Stack Developer** from India  
-🚀 Love building projects with **HTML, CSS, JavaScript, and Java**  
+🚀 Love building projects with **HTML, CSS, JavaScript, and Core Java**  
 🌱 Currently learning **React.js & Database Management, Core Java**  
 🛠️ Exploring **Open Source Contributions**  
 🎯 Goal: To become a skilled **Software Engineer** and contribute to impactful projects 
